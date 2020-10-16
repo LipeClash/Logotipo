@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-flow: column;
+    border-width: 13px; border-style: solid; border-color: #56be9f; border-radius: 70px; margin: 5px 10px;
+    padding: 20px 20px;
+}
+
+#coração {
+    color: #110e0ea8;
+    text-shadow: 2px 2px 0  #56be9f;
+}
+
+#patinha {
+
+    border-top-right-radius: 130px;
+    transform: rotate(0deg);
+    background-position: right;
+    /* position: absolute; */
+    text-shadow: 2px 2px 0  #56be9f;
+    
+    
+
+}
+
+#dog {
+    color: #110e0ea8;
+    text-shadow: 2px 2px 0  #56be9f;
+    transform: rotate(0deg);
+}
+
+#NL {
+    font-family: 'Chewy', cursive;
+    font-size: 27px;
+    text-shadow: 2px 2px 0  #56be9f;
+}
+
+#NS {
+    font-family: 'Fugaz One', cursive;
+    color: #00000081;
+}
